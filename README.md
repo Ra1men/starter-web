@@ -20,3 +20,6 @@ This is a simple web project deployment can be on any web server or even local f
 
 ## How to be Contribute
 
+### Copyright
+
+2024 Git. Halka Ruslan
