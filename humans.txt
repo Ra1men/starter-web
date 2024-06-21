@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ruslan Halka ruslan.galka45@gmail.com @rushalka
 
 # THANKS
 
