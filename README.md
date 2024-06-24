@@ -24,4 +24,4 @@ Please fork this repository and then issue Pull Requests for review.
 
 ### Copyright
 
-2024 Git. Halka Ruslan
+2024 Git. Halka Ruslan. All rights reserved.
